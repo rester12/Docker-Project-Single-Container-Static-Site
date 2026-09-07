@@ -22,16 +22,13 @@ This is a project-based learning environment designed to demonstrate Docker fund
 
 
 
-\## Medium Article
-
-
+## Medium Article
 
 A detailed Medium walkthrough documenting the complete build process, screenshots, troubleshooting, validation steps, engineering decisions, and lessons learned is available here:
 
-Building a Containerized Static Website with Docker, Nginx, Bind Mounts, Apache, Gzip, and Custom Error Handling
+[Building a Containerized Static Website with Docker, Nginx, Bind Mounts, Apache, Gzip, and Custom Error Handling](https://medium.com/@rester.mcglown/building-a-containerized-static-website-with-docker-nginx-bind-mounts-apache-gzip-and-custom-f971a6627e39)
 
-
-\## Architecture
+## Architecture
 
 
 
