@@ -1,4 +1,4 @@
-\# Docker Project 1: Single-Container Static Site with Nginx
+\# Docker Project: Single-Container Static Site with Nginx
 
 
 
